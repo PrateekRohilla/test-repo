@@ -1,2 +1,2 @@
-# try_repo
+# test-repo
 learning the flow of git
